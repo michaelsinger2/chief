@@ -14,20 +14,23 @@ https://www.exploit-db.com/google-hacking-database/
 https://www.exploit-db.com/google=dorks
 
 
-PenTest Challenge
-
-https://www.hackthebox.eu/  (hackable vm's and ctf type challenges) 
-https://www.vulnhub.com/    (hackable vm's)
-
-CTF's
+PenTest/CTF Challenge
 
 https://ctftime.org/        (lists upcoming CTF competitions to register for)
+https://www.hackthebox.eu/  (hackable vm's and ctf type challenges) 
+https://www.vulnhub.com/    (hackable vm's)
+http://ctf.infosecinstitute.com/
 
 PythonWarz
 
 https://www.codewars.com/
 https://codewarz.ninja/
 
+Linux/Powershell Learning Challenge's
+
+http://overthewire.org/wargames/
+http://www.underthewire.tech/
+https://www.root-me.org/?lang=en
 
 Random Sites
 
