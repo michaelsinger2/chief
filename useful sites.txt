@@ -1,16 +1,25 @@
 OSINT
 
 https://inteltechniques.com/menu.html
-
+https://shodan.io
 https://pushpin.org/
-
 https://www.exploit-db.com/google-hacking-database/
-
 https://www.exploit-db.com/google=dorks
 
 
+PenTest Challenge
 
+https://www.hackthebox.eu/  (hackable vm's and ctf type challenges) 
+https://www.vulnhub.com/    (hackable vm's)
 
+CTF's
+
+https://ctftime.org/        (lists upcoming CTF competitions to register for)
+
+PythonWarz
+
+https://www.codewars.com/
+https://codewarz.ninja/
 
 
 Random Sites
