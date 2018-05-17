@@ -44,6 +44,33 @@ https://github.com/rapid7
 tosdr.org       (terms of service breakdown site)
 
 
+Powershell Obfuscation Paper from Symantec:
+  https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/increased-use-of-powershell-in-attacks-16-en.pdf
+  
+Metasploit PDF Backdoor (simple)
+  https://null-byte.wonderhowto.com/how-to/hack-like-pro-embed-backdoor-connection-innocent-looking-pdf-0140942/
+  
+Veil Backdoors:
+  https://www.veil-framework.com/how-to-customize-backdoor-factory-payloads-within-veil/
+
+Staged vs Stageless Meterpreter:
+  http://buffered.io/posts/staged-vs-stageless-handlers/
+
+Patrick Wardle High Sierra App Bypass:
+  https://twitter.com/patrickwardle/status/912254053849079808
+
+
+Armitage TeamServer:
+  https://www.ethicalhackers.co.za/post/installing-armitage-teamserver/
+
+CTF Chat Server:
+  www.github.com/mosesrenegade/ctf-chat
+
+EternalBlue Meterpreter 2012R2:
+  https://www.exploit-db.com/docs/42280.pdf
+
+SubTee Gist:
+  https://gist.github.com/subTee/24c7d8e1ff0f5602092f58cbb3f7d302
 
 
 
